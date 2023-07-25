@@ -28,7 +28,7 @@ const _appColorScheme = ColorScheme(
   secondary: Color(0xFFffab1e),
   tertiary: Color(0xFF7fff62),
   surface: Color(0xFF333333),
-  background: Colors.white,
+  background: Colors.black,
   error: Color(0xFFB00020),
   brightness: Brightness.dark,
   onPrimary: Colors.white,
